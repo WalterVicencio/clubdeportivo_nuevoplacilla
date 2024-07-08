@@ -1,0 +1,7 @@
+CREATE TABLE inscritos (
+    ID int NOT NULL,
+    a_nombre varchar(255),
+    a_apellido varchar(255),
+    a_edad int,
+    PRIMARY KEY (ID)
+);
